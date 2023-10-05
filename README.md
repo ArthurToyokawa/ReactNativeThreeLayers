@@ -1,6 +1,4 @@
-This is a simple program using 3 layer arquitecture in react native
-
-We can do this by having a singleton model that gets updated by the controller when its called by the View. When its called the View notifies an observer that updates the view
+This is a simple software using 3 layer arquitecture in react native
 
 # Getting Started
 
